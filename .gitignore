@@ -1,0 +1,5 @@
+.DS_Store
+Testing.xcworkspace/
+Pods
+Testing.xcodeproj/xcuserdata
+Testing.xcodeproj/project.xcworkspace
